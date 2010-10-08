@@ -4,4 +4,4 @@ OnDuplicate
 v 1.0 - October 2010
 Add-on to use ON DUPLICATE KEY functionnality with mysql DB
 
-see wiki for more detailled information : http://wiki.github.com/supernini/in_place_editor_enhanced/
+see wiki for more detailled information : http://wiki.github.com/supernini/on_duplicate/
